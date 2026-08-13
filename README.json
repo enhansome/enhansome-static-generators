@@ -1,0 +1,1365 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jekyll",
+          "description": "Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-03T17:55:37Z",
+            "owner": "jekyll",
+            "repo": "jekyll",
+            "stars": 51636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hexo",
+          "description": "A fast, simple & powerful blog framework. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:42:36Z",
+            "owner": "hexojs",
+            "repo": "hexo",
+            "stars": 41769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pelican",
+          "description": "Uses Markdown or ReST for content and Jinja2 for themes. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-20T15:29:50Z",
+            "owner": "getpelican",
+            "repo": "pelican",
+            "stars": 13331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Octopress",
+          "description": "Similar to Jekyll but where everything you need is already setup. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-03-29T12:47:20Z",
+            "owner": "imathis",
+            "repo": "octopress",
+            "stars": 9236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gitfolio",
+          "description": "A portfolio website where you could showcase your work + a blog that will help you spread your ideas into real world. -",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-02-19T12:44:41Z",
+            "owner": "imfunniee",
+            "repo": "gitfolio",
+            "stars": 6814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Journey",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-10-05T17:28:44Z",
+            "owner": "kabukky",
+            "repo": "journey",
+            "stars": 1986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BashBlog",
+          "description": "A single Bash script to create blogs. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-09T14:09:35Z",
+            "owner": "cfenollosa",
+            "repo": "bashblog",
+            "stars": 1930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Makesite",
+          "description": "Simple, lightweight, and magic-free static site/blog generator (< 130 lines) for Python coders",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-04T18:35:06Z",
+            "owner": "sunainapai",
+            "repo": "makesite",
+            "stars": 1869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyde",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-23T13:12:27Z",
+            "owner": "hyde",
+            "repo": "hyde",
+            "stars": 1664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WP2Static",
+          "description": "WordPress static site generator for security, performance and cost benefits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-02-14T15:15:35Z",
+            "owner": "elementor",
+            "repo": "wp2static",
+            "stars": 1468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marmite",
+          "description": "Zero Config, Simple and fast, just run it on a folder with markdown files and done!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T08:12:54Z",
+            "owner": "rochacbruno",
+            "repo": "marmite",
+            "stars": 866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coleslaw",
+          "description": "Flexible blog and site generator with a lot of plugins. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2024-12-12T13:42:37Z",
+            "owner": "coleslaw-org",
+            "repo": "coleslaw",
+            "stars": 584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HydePHP",
+          "description": "Elegant and powerful static site generator with rich support for blogs, documentation sites, and more using Markdown and/or Blade -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T13:26:04Z",
+            "owner": "hydephp",
+            "repo": "hyde",
+            "stars": 484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spress",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-09-29T20:57:25Z",
+            "owner": "spress",
+            "repo": "spress",
+            "stars": 372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tinkerer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-10-09T23:59:25Z",
+            "owner": "vladris",
+            "repo": "tinkerer",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlazorStatic",
+          "description": "Use ASP.NET Blazor to generate static pages. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-24T21:30:54Z",
+            "owner": "BlazorStatic",
+            "repo": "BlazorStatic",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aurora",
+          "description": "An extensible, Python-based static site generator with support for jinja2 and markdown templates. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T10:17:36Z",
+            "owner": "capjamesg",
+            "repo": "aurora",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Static",
+          "description": "Supports org-mode and markdown. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-12-12T22:23:41Z",
+            "owner": "nakkaya",
+            "repo": "static",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkunkHTML",
+          "description": "The simplest way to run a blog on GitHub Pages with Markdown and GitHub Actions. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-07-23T11:04:38Z",
+            "owner": "mg0x7BE",
+            "repo": "skunk-html",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blag",
+          "description": "blag is a blog-aware, static site generator -- it uses Markdown and is written in Python. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T14:12:42Z",
+            "owner": "venthur",
+            "repo": "blag",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gozer",
+          "description": "Simple & fast static site generator in a single static binary. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T09:33:35Z",
+            "owner": "dannyvankooten",
+            "repo": "gozer",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stattic",
+          "description": "Decentralized Publishing -",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-07-22T04:09:30Z",
+            "owner": "getstattic",
+            "repo": "stattic",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ata's SSG",
+          "description": "A PHP-based blog-aware vanilla-HTML static site generator for GitHub Pages with markdown support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Less",
+            "last_commit": "2024-10-15T13:18:19Z",
+            "owner": "atas",
+            "repo": "ssg",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CommonMark Blog for Laravel",
+          "description": "Static generator to use with Laravel projects. Uses CommonMark and FrontMatter to generate and publish files in the -folder. Supports articles as well as listing pages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-05-29T04:05:48Z",
+            "owner": "spekulatius",
+            "repo": "laravel-commonmark-blog",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zeno",
+          "description": "Turn your Markdown files into a full-featured blog with zero hassle -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-10-05T08:36:49Z",
+            "owner": "mine3krish",
+            "repo": "zeno",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bonobo",
+          "description": "A static site generator so simple and easy a bonobo could use it. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-01T18:34:55Z",
+            "owner": "rockhardandrew",
+            "repo": "bonobo",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Krems",
+          "description": "A simple, lightweight static site generator for Markdown, with live preview, and GitHub Pages compatibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-10T19:56:44Z",
+            "owner": "mreider",
+            "repo": "krems",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BashWrite",
+          "description": "You can create a blog with a single Bash script, writing posts using extended Markdown without any dependencies. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-12T01:26:17Z",
+            "owner": "RayCC51",
+            "repo": "BashWrite",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sake",
+          "description": "A simple static site generator built with make. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2023-11-19T00:18:29Z",
+            "owner": "williamd1k0",
+            "repo": "sake",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DriftNotes",
+          "description": "A lightweight journaling engine for thoughts that drift between tweets and blogs. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-02T21:41:29Z",
+            "owner": "rohitfarmer",
+            "repo": "driftnotes",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jamify NextJS",
+          "description": "Publish flaring fast blogs with Next.js and Ghost. -",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Mandy",
+          "description": "A light and fast static-site generator. :sparkles: :fire: -",
+          "children": []
+        }
+      ],
+      "title": "Blogs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LightCMS",
+          "description": "AI-native CMS built with Go and MongoDB. Generates static HTML pages from templates. Features REST API, MCP integration with 41 tools, asset management, themes, collections, redirects, and content versioning. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-07T21:54:09Z",
+            "owner": "jonradoff",
+            "repo": "lightcms",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "php-flat-file",
+          "description": "A flat-file CMS and static site generator with no database, no configuration, and Markdown content. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-30T19:18:40Z",
+            "owner": "slogsdon",
+            "repo": "php-flat-file",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "CMS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Slate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-02-01T05:54:12Z",
+            "owner": "slatedocs",
+            "repo": "slate",
+            "stars": 36048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitBook",
+          "description": "Modern documentation format and toolchain using Git and Markdown. -",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HonKit",
+              "description": "Community-maintained fork of GitBook wiith ongoing plugin and core maintenance. -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T13:58:35Z",
+                "owner": "honkit",
+                "repo": "honkit",
+                "stars": 3491
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:24:23Z",
+            "owner": "GitbookIO",
+            "repo": "gitbook",
+            "stars": 28993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DocPad",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2024-02-11T13:53:58Z",
+            "owner": "docpad",
+            "repo": "docpad",
+            "stars": 3045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docmd",
+          "description": "Markdown to HTML documentation site generator with custom containers and offline search. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T14:09:48Z",
+            "owner": "docmd-io",
+            "repo": "docmd",
+            "stars": 2365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doctave",
+          "description": "A batteries-included developer documentation site generator. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-09-19T04:10:27Z",
+            "owner": "Doctave",
+            "repo": "doctave",
+            "stars": 669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eziwiki",
+          "description": "Modern documentation and wiki generator. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T23:36:31Z",
+            "owner": "i3months",
+            "repo": "eziwiki",
+            "stars": 106
+          }
+        }
+      ],
+      "title": "Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hugo",
+          "description": "It is optimized for speed, easy use and configurability. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T15:39:51Z",
+            "owner": "gohugoio",
+            "repo": "hugo",
+            "stars": 89427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gatsby",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T05:12:32Z",
+            "owner": "gatsbyjs",
+            "repo": "gatsby",
+            "stars": 55941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Static",
+          "description": "A progressive static-site framework for React. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-31T19:59:37Z",
+            "owner": "react-static",
+            "repo": "react-static",
+            "stars": 10346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metalsmith",
+          "description": "An extremely simple, pluggable static site generator. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-09T20:40:55Z",
+            "owner": "metalsmith",
+            "repo": "metalsmith",
+            "stars": 7822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Middleman",
+          "description": "Middleman is a static site generator using all the shortcuts and tools in modern web development. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-10T11:54:51Z",
+            "owner": "middleman",
+            "repo": "middleman",
+            "stars": 7112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Publish",
+          "description": "enables entire websites to be built using Swift, and supports themes, plugins and tons of other powerful customization options -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-07-09T07:08:47Z",
+            "owner": "JohnSundell",
+            "repo": "Publish",
+            "stars": 4967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wintersmith",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2021-07-15T14:10:26Z",
+            "owner": "jnordberg",
+            "repo": "wintersmith",
+            "stars": 3478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cactus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-28T12:33:33Z",
+            "owner": "eudicots",
+            "repo": "Cactus",
+            "stars": 3467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hakyll",
+          "description": "Hakyll is a Haskell library for generating static sites, mostly aimed at small-to-medium sites and personal blogs. It is written in a very configurable way and uses an xmonad-like DSL for configuration. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-12T15:43:27Z",
+            "owner": "jaspervdj",
+            "repo": "hakyll",
+            "stars": 2867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scully",
+          "description": "The Static Site Generator for Angular apps. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-31T20:57:39Z",
+            "owner": "scullyio",
+            "repo": "scully",
+            "stars": 2529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nanoc",
+          "description": "Flexible support for small personal to large corporate web sites. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-19T08:54:34Z",
+            "owner": "nanoc",
+            "repo": "nanoc",
+            "stars": 2156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JBake",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-12-30T10:45:05Z",
+            "owner": "jbake-org",
+            "repo": "jbake",
+            "stars": 1155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask-Frozen",
+          "description": "Freezes a Flask application into a set of static files. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-12T22:19:50Z",
+            "owner": "Frozen-Flask",
+            "repo": "Frozen-Flask",
+            "stars": 798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yst",
+          "description": "Powered by YAML. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-01-21T08:49:49Z",
+            "owner": "jgm",
+            "repo": "yst",
+            "stars": 404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obelisk",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Elixir",
+            "last_commit": "2022-08-21T19:46:47Z",
+            "owner": "BennyHallett",
+            "repo": "obelisk",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tags",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-06-18T01:04:02Z",
+            "owner": "braceio",
+            "repo": "tags",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AspNetStatic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-12T19:25:45Z",
+            "owner": "ZarehD",
+            "repo": "AspNetStatic",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gaiden",
+          "description": "A tool that makes it easy to create documentation with Markdown. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Groovy",
+            "last_commit": "2022-12-16T01:23:37Z",
+            "owner": "kobo",
+            "repo": "gaiden",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grain",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Groovy",
+            "last_commit": "2025-04-28T13:27:15Z",
+            "owner": "sysgears",
+            "repo": "grain",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Saga",
+          "description": "A code-first static site generator in Swift. No config files, no implicit behavior, no magic conventions. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-09T08:36:39Z",
+            "owner": "loopwerk",
+            "repo": "Saga",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LambdaPad",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2020-01-05T07:17:34Z",
+            "owner": "gar1t",
+            "repo": "lambdapad",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sitegen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-27T19:34:15Z",
+            "owner": "leafo",
+            "repo": "sitegen",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coil",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2014-03-30T20:49:32Z",
+            "owner": "badosu",
+            "repo": "coil",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bengal",
+          "description": "A Python static site generator for documentation, blogs, and product sites. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T02:43:46Z",
+            "owner": "lbliii",
+            "repo": "bengal",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Goldsmith",
+          "description": "Fast and simple pipeline-based static site generator, extensible via plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-11-04T03:02:33Z",
+            "owner": "FooSoft",
+            "repo": "goldsmith",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blurry",
+          "description": "Blurry is a schema-first, plugin-enabled static site generator. Markdown front matter directly to Schema.org types, so your content is SEO-friendly and rich results-ready out of the box. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T01:25:12Z",
+            "owner": "blurry-dev",
+            "repo": "blurry",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hwaro",
+          "description": "Hwaro (화로) is a lightweight and fast static site generator written in Crystal. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-08-08T16:23:48Z",
+            "owner": "hahwul",
+            "repo": "hwaro",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Capro",
+          "description": "Flexible PHP8 static site generator, using Blade template engine. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-06T21:54:34Z",
+            "owner": "xy2z",
+            "repo": "capro",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wmk",
+          "description": "Flexible and versatile, uses Mako templates -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-14T14:28:58Z",
+            "owner": "bk",
+            "repo": "wmk",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dewar",
+          "description": "A flask-like static site generator. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T01:35:07Z",
+            "owner": "tfpk",
+            "repo": "dewar",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flatMark",
+          "description": "A lightweight, flat-file Markdown-based website generator -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-27T13:39:33Z",
+            "owner": "elektrischerwalfisch",
+            "repo": "flatmark",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "m4-bakery",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Expose",
+          "description": "For photoessays. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2022-03-16T05:58:08Z",
+            "owner": "Jack000",
+            "repo": "Expose",
+            "stars": 4436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prosopopee",
+          "description": "A static website generator to make beautiful customizable pictures galleries that tell a story -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-11-02T09:37:47Z",
+            "owner": "Psycojoker",
+            "repo": "prosopopee",
+            "stars": 377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "foto",
+          "description": "Yet another another publishing tool for minimalist photographers. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T19:25:30Z",
+            "owner": "waynezhang",
+            "repo": "foto",
+            "stars": 132
+          }
+        }
+      ],
+      "title": "Photography"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CMS.js",
+          "description": "A fully client-side, JavaScript Markdown site generator. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-04T06:50:52Z",
+            "owner": "chrisdiana",
+            "repo": "cms.js",
+            "stars": 3057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linkyee",
+          "description": "A fully customized, open-source LinkTree alternative deployed directly on GitHub Pages. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T01:39:32Z",
+            "owner": "ZhgChgLi",
+            "repo": "linkyee",
+            "stars": 168
+          }
+        }
+      ],
+      "title": "Single Page"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mdBook",
+          "description": "Create book from markdown files. Like Gitbook but implemented in Rust. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T16:57:52Z",
+            "owner": "rust-lang",
+            "repo": "mdBook",
+            "stars": 22071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gollum",
+          "description": "Gollum is a simple wiki system built on top of Git. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-11-24T22:15:31Z",
+            "owner": "gollum",
+            "repo": "gollum",
+            "stars": 14311
+          }
+        }
+      ],
+      "title": "Wikis"
+    },
+    {
+      "description": "Awesome lists that help you with your new static web site.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Frontend Development",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-21T10:56:58Z",
+            "owner": "dypsilon",
+            "repo": "frontend-dev-bookmarks",
+            "stars": 47374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome HTML5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-26T08:12:13Z",
+            "owner": "diegocard",
+            "repo": "awesome-html5",
+            "stars": 2795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Images",
+          "description": "A curated list of amazingly awesome free (stock) photo resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-06T09:21:22Z",
+            "owner": "heyalexej",
+            "repo": "awesome-images",
+            "stars": 2508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Static Website Services",
+          "description": "A curated list of awesome static websites services",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-20T16:35:39Z",
+            "owner": "agarrharr",
+            "repo": "awesome-static-website-services",
+            "stars": 1979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Bootstrap",
+          "description": "A curated list of free Bootstrap themes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-02T14:54:30Z",
+            "owner": "awesome-bootstrap-org",
+            "repo": "awesome-bootstrap",
+            "stars": 1436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Static Hosting Providers",
+          "description": "A collection of awesome static hosting providers and related resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-22T00:22:46Z",
+            "owner": "MooseTheRebel",
+            "repo": "awesome-static-hosting-and-cms",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Creative Commons Media",
+          "description": "A curated list of resources that provide media licensed under Creative Commons licenses.",
+          "children": []
+        }
+      ],
+      "title": "Related Awesome"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vinta/awesome-python - Static Site Generators",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T06:11:04Z",
+            "owner": "vinta",
+            "repo": "awesome-python",
+            "stars": 313647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sindresorhus/awesome-nodejs - Static Site Generators",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-03T08:24:10Z",
+            "owner": "sindresorhus",
+            "repo": "awesome-nodejs",
+            "stars": 66508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ziadoz/awesome-php - Static Site Generators",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-13T19:44:57Z",
+            "owner": "ziadoz",
+            "repo": "awesome-php",
+            "stars": 32648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "markets/awesome-ruby - Static Site Generators",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-16T20:36:03Z",
+            "owner": "markets",
+            "repo": "awesome-ruby",
+            "stars": 14136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h4cc/awesome-elixir - Static Page Generation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2025-10-12T18:06:13Z",
+            "owner": "h4cc",
+            "repo": "awesome-elixir",
+            "stars": 13157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sdogruyol/awesome-ruby - Static Page Generation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-08-15T08:02:23Z",
+            "owner": "sdogruyol",
+            "repo": "awesome-ruby",
+            "stars": 1266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kdabir/awesome-groovy - Static Web",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Groovy",
+            "last_commit": "2024-10-26T11:25:42Z",
+            "owner": "kdabir",
+            "repo": "awesome-groovy",
+            "stars": 740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "forhappy/awesome-lua - Static Site Generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-11T11:37:22Z",
+            "owner": "forhappy",
+            "repo": "awesome-lua",
+            "stars": 408
+          }
+        }
+      ],
+      "title": "Static Web Site Generators in Other Awesome Lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:35:29.365Z",
+    "original_repository": "myles/awesome-static-generators",
+    "original_repository_sha": "e58cc400bffaf325f2adb6be2a4c582d756b1a26",
+    "enhanced_repository": "enhansome/enhansome-static-generators",
+    "enhanced_repository_description": null,
+    "title": "Awesome Static Web Site Generators with stars"
+  }
+}
