@@ -15,7 +15,7 @@
             "last_commit": "2026-08-03T17:55:37Z",
             "owner": "jekyll",
             "repo": "jekyll",
-            "stars": 51638
+            "stars": 51641
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-12T18:42:36Z",
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41771
+            "stars": 41772
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2022-02-19T12:44:41Z",
             "owner": "imfunniee",
             "repo": "gitfolio",
-            "stars": 6814
+            "stars": 6816
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-07-09T14:09:35Z",
             "owner": "cfenollosa",
             "repo": "bashblog",
-            "stars": 1928
+            "stars": 1927
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-15T08:13:25Z",
             "owner": "rochacbruno",
             "repo": "marmite",
-            "stars": 869
+            "stars": 870
           }
         },
         {
@@ -535,10 +535,10 @@
             "archived": false,
             "id": 18280236,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T23:08:05Z",
+            "last_commit": "2026-08-20T22:20:31Z",
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29001
+            "stars": 29004
           }
         },
         {
@@ -616,10 +616,10 @@
             "archived": false,
             "id": 11180687,
             "language": "Go",
-            "last_commit": "2026-08-19T18:00:06Z",
+            "last_commit": "2026-08-20T19:56:40Z",
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 89455
+            "stars": 89471
           }
         },
         {
@@ -631,10 +631,10 @@
             "archived": false,
             "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T18:23:45Z",
+            "last_commit": "2026-08-20T20:50:14Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941
+            "stars": 55942
           }
         },
         {
@@ -679,7 +679,7 @@
             "last_commit": "2026-08-16T04:48:11Z",
             "owner": "middleman",
             "repo": "middleman",
-            "stars": 7111
+            "stars": 7110
           }
         },
         {
@@ -694,7 +694,7 @@
             "last_commit": "2024-07-09T07:08:47Z",
             "owner": "JohnSundell",
             "repo": "Publish",
-            "stars": 4969
+            "stars": 4970
           }
         },
         {
@@ -799,7 +799,7 @@
             "last_commit": "2024-11-12T22:19:50Z",
             "owner": "Frozen-Flask",
             "repo": "Frozen-Flask",
-            "stars": 798
+            "stars": 797
           }
         },
         {
@@ -991,7 +991,7 @@
             "archived": false,
             "id": 1136152464,
             "language": "Crystal",
-            "last_commit": "2026-08-16T14:17:41Z",
+            "last_commit": "2026-08-20T16:00:50Z",
             "owner": "hahwul",
             "repo": "hwaro",
             "stars": 37
@@ -1153,10 +1153,10 @@
             "archived": false,
             "id": 877945203,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T00:59:17Z",
+            "last_commit": "2026-08-21T01:02:51Z",
             "owner": "ZhgChgLi",
             "repo": "linkyee",
-            "stars": 168
+            "stars": 169
           }
         }
       ],
@@ -1174,10 +1174,10 @@
             "archived": false,
             "id": 38655056,
             "language": "Rust",
-            "last_commit": "2026-08-19T09:53:48Z",
+            "last_commit": "2026-08-20T13:20:14Z",
             "owner": "rust-lang",
             "repo": "mdBook",
-            "stars": 22080
+            "stars": 22081
           }
         },
         {
@@ -1213,7 +1213,7 @@
             "last_commit": "2024-05-21T10:56:58Z",
             "owner": "dypsilon",
             "repo": "frontend-dev-bookmarks",
-            "stars": 47396
+            "stars": 47404
           }
         },
         {
@@ -1228,7 +1228,7 @@
             "last_commit": "2023-09-26T08:12:13Z",
             "owner": "diegocard",
             "repo": "awesome-html5",
-            "stars": 2799
+            "stars": 2801
           }
         },
         {
@@ -1258,7 +1258,7 @@
             "last_commit": "2026-04-20T16:35:39Z",
             "owner": "agarrharr",
             "repo": "awesome-static-website-services",
-            "stars": 1981
+            "stars": 1982
           }
         },
         {
@@ -1309,7 +1309,7 @@
             "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314997
+            "stars": 315183
           }
         },
         {
@@ -1324,7 +1324,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66568
+            "stars": 66580
           }
         },
         {
@@ -1339,7 +1339,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32659
+            "stars": 32665
           }
         },
         {
@@ -1354,7 +1354,7 @@
             "last_commit": "2026-08-13T09:40:38Z",
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14141
+            "stars": 14142
           }
         },
         {
@@ -1414,7 +1414,7 @@
             "last_commit": "2024-06-11T11:37:22Z",
             "owner": "forhappy",
             "repo": "awesome-lua",
-            "stars": 410
+            "stars": 409
           }
         }
       ],
@@ -1422,7 +1422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:22:20.311Z",
+    "last_updated": "2026-08-21T04:24:43.431Z",
     "original_repository": "myles/awesome-static-generators",
     "original_repository_id": 24027784,
     "original_repository_sha": "e58cc400bffaf325f2adb6be2a4c582d756b1a26",
