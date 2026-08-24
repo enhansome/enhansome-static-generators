@@ -30,7 +30,7 @@
             "last_commit": "2026-08-12T18:42:36Z",
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41772
+            "stars": 41773
           }
         },
         {
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 471485402,
             "language": "PHP",
-            "last_commit": "2026-08-23T23:21:57Z",
+            "last_commit": "2026-08-24T12:46:45Z",
             "owner": "hydephp",
             "repo": "hyde",
             "stars": 484
@@ -471,7 +471,7 @@
             "last_commit": "2026-07-07T21:54:09Z",
             "owner": "jonradoff",
             "repo": "lightcms",
-            "stars": 26
+            "stars": 27
           }
         },
         {
@@ -527,7 +527,7 @@
                 "last_commit": "2026-08-11T13:58:35Z",
                 "owner": "honkit",
                 "repo": "honkit",
-                "stars": 3494
+                "stars": 3495
               }
             }
           ],
@@ -535,7 +535,7 @@
             "archived": false,
             "id": 18280236,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T18:30:34Z",
+            "last_commit": "2026-08-24T12:17:30Z",
             "owner": "GitbookIO",
             "repo": "gitbook",
             "stars": 29005
@@ -609,6 +609,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Milou",
+          "description": "Create beautiful and informative press kits to showcase your company and products to the medias -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 801680683,
+            "language": "HTML",
+            "last_commit": "2026-08-03T21:53:57Z",
+            "owner": "Tsukumogami-Software",
+            "repo": "milou",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Marketing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CodeStage",
+          "description": "A static site generator to create javascript playgrounds / interactive demos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 561589830,
+            "language": "JavaScript",
+            "last_commit": "2024-07-28T03:11:03Z",
+            "owner": "shi-yan",
+            "repo": "codestage",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Code Playground"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Hugo",
           "description": "It is optimized for speed, easy use and configurability. -",
           "children": [],
@@ -616,10 +658,10 @@
             "archived": false,
             "id": 11180687,
             "language": "Go",
-            "last_commit": "2026-08-20T19:56:40Z",
+            "last_commit": "2026-08-24T09:36:58Z",
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 89508
+            "stars": 89519
           }
         },
         {
@@ -634,7 +676,7 @@
             "last_commit": "2026-08-21T19:12:38Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55939
+            "stars": 55941
           }
         },
         {
@@ -676,7 +718,7 @@
             "archived": false,
             "id": 261943,
             "language": "Ruby",
-            "last_commit": "2026-08-23T16:04:04Z",
+            "last_commit": "2026-08-24T11:52:57Z",
             "owner": "middleman",
             "repo": "middleman",
             "stars": 7111
@@ -964,7 +1006,7 @@
             "last_commit": "2026-08-17T15:59:11Z",
             "owner": "lbliii",
             "repo": "bengal",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -1177,7 +1219,7 @@
             "last_commit": "2026-08-22T22:41:36Z",
             "owner": "rust-lang",
             "repo": "mdBook",
-            "stars": 22092
+            "stars": 22093
           }
         },
         {
@@ -1213,7 +1255,7 @@
             "last_commit": "2024-05-21T10:56:58Z",
             "owner": "dypsilon",
             "repo": "frontend-dev-bookmarks",
-            "stars": 47416
+            "stars": 47420
           }
         },
         {
@@ -1228,7 +1270,7 @@
             "last_commit": "2023-09-26T08:12:13Z",
             "owner": "diegocard",
             "repo": "awesome-html5",
-            "stars": 2802
+            "stars": 2803
           }
         },
         {
@@ -1306,10 +1348,10 @@
             "archived": false,
             "id": 21289110,
             "language": "Python",
-            "last_commit": "2026-08-23T08:02:10Z",
+            "last_commit": "2026-08-24T06:42:58Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315723
+            "stars": 315798
           }
         },
         {
@@ -1324,7 +1366,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66611
+            "stars": 66610
           }
         },
         {
@@ -1339,7 +1381,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32671
+            "stars": 32672
           }
         },
         {
@@ -1369,7 +1411,7 @@
             "last_commit": "2025-10-12T18:06:13Z",
             "owner": "h4cc",
             "repo": "awesome-elixir",
-            "stars": 13163
+            "stars": 13164
           }
         },
         {
@@ -1384,7 +1426,7 @@
             "last_commit": "2024-08-15T08:02:23Z",
             "owner": "sdogruyol",
             "repo": "awesome-ruby",
-            "stars": 1266
+            "stars": 1265
           }
         },
         {
@@ -1422,7 +1464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:31:25.218Z",
+    "last_updated": "2026-08-24T13:59:00.148Z",
     "original_repository": "myles/awesome-static-generators",
     "original_repository_id": 24027784,
     "original_repository_sha": "e58cc400bffaf325f2adb6be2a4c582d756b1a26",
