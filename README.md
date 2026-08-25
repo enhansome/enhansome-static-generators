@@ -1,6 +1,6 @@
 # Awesome Static Web Site Generators with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,671 | 🐛 106 | 📅 2026-08-21 [![Changelog Feed](https://mozorg.cdn.mozilla.net/media/img/trademarks/feed-icon-14x14.png)](https://github.com/myles/awesome-static-generators/commits/master/README.md.atom) ⭐ 3,767 | 🐛 12 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,694 | 🐛 106 | 📅 2026-08-21 [![Changelog Feed](https://mozorg.cdn.mozilla.net/media/img/trademarks/feed-icon-14x14.png)](https://github.com/myles/awesome-static-generators/commits/master/README.md.atom) ⭐ 3,767 | 🐛 12 | 📅 2026-08-21
 
 A static web site generator is an application that takes plain text files and compiles them to HTML files.
 
@@ -98,7 +98,7 @@ A static web site generator is an application that takes plain text files and co
 ### Documentation
 
 * [Slate](https://github.com/lord/slate) ⚠️ Archived - `#Ruby`
-* [GitBook](https://github.com/GitbookIO/gitbook) ⭐ 29,008 | 🐛 102 | 🌐 TypeScript | 📅 2026-08-24 - Modern documentation format and toolchain using Git and Markdown. - `#GitBook`
+* [GitBook](https://github.com/GitbookIO/gitbook) ⭐ 29,009 | 🐛 102 | 🌐 TypeScript | 📅 2026-08-24 - Modern documentation format and toolchain using Git and Markdown. - `#GitBook`
   * [HonKit](https://github.com/honkit/honkit) ⭐ 3,495 | 🐛 73 | 🌐 TypeScript | 📅 2026-08-11 - Community-maintained fork of GitBook wiith ongoing plugin and core maintenance. - `#HonKit`
 * [DocPad](https://github.com/docpad/docpad) ⭐ 3,044 | 🐛 37 | 🌐 CoffeeScript | 📅 2024-02-11 - `#JavaScript` `#CoffeeScript` `#Node.js`
 * [docmd](https://github.com/mgks/docmd) ⭐ 2,427 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-24 - Markdown to HTML documentation site generator with custom containers and offline search. - `#Node.js` `#Markdown` `#JavaScript`
@@ -128,8 +128,8 @@ A static web site generator is an application that takes plain text files and co
 
 ### Frameworks
 
-* [Hugo](https://github.com/spf13/hugo) ⭐ 89,533 | 🐛 249 | 🌐 Go | 📅 2026-08-24 - It is optimized for speed, easy use and configurability. - `#Go`
-* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,942 | 🐛 423 | 🌐 JavaScript | 📅 2026-08-21 - `#JavaScript` `#Node.js` `#React.js`
+* [Hugo](https://github.com/spf13/hugo) ⭐ 89,535 | 🐛 249 | 🌐 Go | 📅 2026-08-24 - It is optimized for speed, easy use and configurability. - `#Go`
+* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,943 | 🐛 423 | 🌐 JavaScript | 📅 2026-08-21 - `#JavaScript` `#Node.js` `#React.js`
 * [React Static](https://github.com/nozzle/react-static) ⭐ 10,345 | 🐛 1 | 🌐 JavaScript | 📅 2022-10-31 - A progressive static-site framework for React. - `#React.js`
 * [Metalsmith](https://github.com/segmentio/metalsmith) ⭐ 7,824 | 🐛 21 | 🌐 JavaScript | 📅 2026-02-09 - An extremely simple, pluggable static site generator. - `#JavaScript` `#Node.js`
 * [Middleman](https://github.com/middleman/middleman) ⭐ 7,111 | 🐛 18 | 🌐 Ruby | 📅 2026-08-24 - Middleman is a static site generator using all the shortcuts and tools in modern web development. - `#Ruby`
@@ -195,7 +195,7 @@ A static web site generator is an application that takes plain text files and co
 
 * [Expose](https://github.com/Jack000/Expose) ⭐ 4,437 | 🐛 23 | 🌐 Perl | 📅 2022-03-16 - For photoessays. - `#Bash`
 * [Prosopopee](https://github.com/Psycojoker/prosopopee/) ⭐ 377 | 🐛 32 | 🌐 HTML | 📅 2025-11-02 A static website generator to make beautiful customizable pictures galleries that tell a story - `#Python`
-* [foto](https://github.com/waynezhang/foto) ⭐ 133 | 🐛 2 | 🌐 Go | 📅 2026-08-24 - Yet another another publishing tool for minimalist photographers. - `#Go` `#Golang`
+* [foto](https://github.com/waynezhang/foto) ⭐ 133 | 🐛 1 | 🌐 Go | 📅 2026-08-25 - Yet another another publishing tool for minimalist photographers. - `#Go` `#Golang`
 * [Sigal](https://sigal.readthedocs.org/en/latest/) - `#Python`
 
 ### Audio / Video
@@ -268,8 +268,8 @@ Awesome lists that help you with your new static web site.
 
 ## Static Web Site Generators in Other Awesome Lists
 
-* [vinta/awesome-python - Static Site Generators](https://github.com/vinta/awesome-python#static-site-generator) ⭐ 315,905 | 🐛 15 | 🌐 Python | 📅 2026-08-25
-* [sindresorhus/awesome-nodejs - Static Site Generators](https://github.com/sindresorhus/awesome-nodejs#static-site-generators) ⭐ 66,620 | 🐛 26 | 📅 2026-05-03
+* [vinta/awesome-python - Static Site Generators](https://github.com/vinta/awesome-python#static-site-generator) ⭐ 315,914 | 🐛 15 | 🌐 Python | 📅 2026-08-25
+* [sindresorhus/awesome-nodejs - Static Site Generators](https://github.com/sindresorhus/awesome-nodejs#static-site-generators) ⭐ 66,621 | 🐛 26 | 📅 2026-05-03
 * [ziadoz/awesome-php - Static Site Generators](https://github.com/ziadoz/awesome-php#static-site-generators) ⭐ 32,672 | 🐛 85 | 📅 2026-07-13
 * [markets/awesome-ruby - Static Site Generators](https://github.com/markets/awesome-ruby#static-site-generation) ⭐ 14,144 | 🐛 8 | 📅 2026-08-13
 * [h4cc/awesome-elixir - Static Page Generation](https://github.com/h4cc/awesome-elixir#static-page-generation) ⭐ 13,164 | 🐛 29 | 🌐 Elixir | 📅 2025-10-12
