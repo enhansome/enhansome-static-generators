@@ -15,7 +15,7 @@
             "last_commit": "2026-08-03T17:55:37Z",
             "owner": "jekyll",
             "repo": "jekyll",
-            "stars": 51653
+            "stars": 51655
           }
         },
         {
@@ -538,7 +538,7 @@
             "last_commit": "2026-08-27T07:58:18Z",
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29012
+            "stars": 29014
           }
         },
         {
@@ -658,7 +658,7 @@
             "archived": false,
             "id": 11180687,
             "language": "Go",
-            "last_commit": "2026-08-26T17:34:17Z",
+            "last_commit": "2026-08-27T14:02:56Z",
             "owner": "gohugoio",
             "repo": "hugo",
             "stars": 89557
@@ -1033,7 +1033,7 @@
             "archived": false,
             "id": 1136152464,
             "language": "Crystal",
-            "last_commit": "2026-08-23T15:18:29Z",
+            "last_commit": "2026-08-27T12:15:29Z",
             "owner": "hahwul",
             "repo": "hwaro",
             "stars": 37
@@ -1255,7 +1255,7 @@
             "last_commit": "2024-05-21T10:56:58Z",
             "owner": "dypsilon",
             "repo": "frontend-dev-bookmarks",
-            "stars": 47421
+            "stars": 47422
           }
         },
         {
@@ -1351,7 +1351,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316383
+            "stars": 316413
           }
         },
         {
@@ -1366,7 +1366,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66625
+            "stars": 66627
           }
         },
         {
@@ -1381,7 +1381,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32669
+            "stars": 32668
           }
         },
         {
@@ -1464,7 +1464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:03:51.591Z",
+    "last_updated": "2026-08-27T14:48:29.428Z",
     "original_repository_info": {
       "archived": false,
       "id": 24027784,
