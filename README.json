@@ -15,7 +15,7 @@
             "last_commit": "2026-08-03T17:55:37Z",
             "owner": "jekyll",
             "repo": "jekyll",
-            "stars": 51649
+            "stars": 51653
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 5923215,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T18:42:36Z",
+            "last_commit": "2026-08-27T02:48:00Z",
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41772
+            "stars": 41776
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-04-20T15:29:50Z",
             "owner": "getpelican",
             "repo": "pelican",
-            "stars": 13337
+            "stars": 13339
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-07-09T14:09:35Z",
             "owner": "cfenollosa",
             "repo": "bashblog",
-            "stars": 1927
+            "stars": 1928
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-15T08:13:25Z",
             "owner": "rochacbruno",
             "repo": "marmite",
-            "stars": 871
+            "stars": 872
           }
         },
         {
@@ -535,10 +535,10 @@
             "archived": false,
             "id": 18280236,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T16:01:27Z",
+            "last_commit": "2026-08-27T07:58:18Z",
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29010
+            "stars": 29012
           }
         },
         {
@@ -595,7 +595,7 @@
             "archived": false,
             "id": 1096937501,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T02:23:34Z",
+            "last_commit": "2026-08-26T06:54:04Z",
             "owner": "i3months",
             "repo": "eziwiki",
             "stars": 108
@@ -658,10 +658,10 @@
             "archived": false,
             "id": 11180687,
             "language": "Go",
-            "last_commit": "2026-08-24T09:36:58Z",
+            "last_commit": "2026-08-26T17:34:17Z",
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 89545
+            "stars": 89557
           }
         },
         {
@@ -673,7 +673,7 @@
             "archived": false,
             "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T19:12:38Z",
+            "last_commit": "2026-08-27T10:47:01Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
             "stars": 55942
@@ -721,7 +721,7 @@
             "last_commit": "2026-08-24T11:52:57Z",
             "owner": "middleman",
             "repo": "middleman",
-            "stars": 7111
+            "stars": 7110
           }
         },
         {
@@ -736,7 +736,7 @@
             "last_commit": "2024-07-09T07:08:47Z",
             "owner": "JohnSundell",
             "repo": "Publish",
-            "stars": 4970
+            "stars": 4971
           }
         },
         {
@@ -781,7 +781,7 @@
             "last_commit": "2026-08-12T15:43:27Z",
             "owner": "jaspervdj",
             "repo": "hakyll",
-            "stars": 2867
+            "stars": 2869
           }
         },
         {
@@ -796,7 +796,7 @@
             "last_commit": "2023-08-31T20:57:39Z",
             "owner": "scullyio",
             "repo": "scully",
-            "stars": 2527
+            "stars": 2528
           }
         },
         {
@@ -808,7 +808,7 @@
             "archived": false,
             "id": 253476,
             "language": "Ruby",
-            "last_commit": "2026-07-19T08:54:34Z",
+            "last_commit": "2026-08-26T19:16:13Z",
             "owner": "nanoc",
             "repo": "nanoc",
             "stars": 2157
@@ -1195,7 +1195,7 @@
             "archived": false,
             "id": 877945203,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T01:02:48Z",
+            "last_commit": "2026-08-27T07:01:51Z",
             "owner": "ZhgChgLi",
             "repo": "linkyee",
             "stars": 168
@@ -1216,10 +1216,10 @@
             "archived": false,
             "id": 38655056,
             "language": "Rust",
-            "last_commit": "2026-08-22T22:41:36Z",
+            "last_commit": "2026-08-26T18:36:35Z",
             "owner": "rust-lang",
             "repo": "mdBook",
-            "stars": 22096
+            "stars": 22101
           }
         },
         {
@@ -1255,7 +1255,7 @@
             "last_commit": "2024-05-21T10:56:58Z",
             "owner": "dypsilon",
             "repo": "frontend-dev-bookmarks",
-            "stars": 47417
+            "stars": 47421
           }
         },
         {
@@ -1351,7 +1351,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316088
+            "stars": 316383
           }
         },
         {
@@ -1366,7 +1366,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66620
+            "stars": 66625
           }
         },
         {
@@ -1381,7 +1381,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32668
+            "stars": 32669
           }
         },
         {
@@ -1411,7 +1411,7 @@
             "last_commit": "2025-10-12T18:06:13Z",
             "owner": "h4cc",
             "repo": "awesome-elixir",
-            "stars": 13164
+            "stars": 13166
           }
         },
         {
@@ -1456,7 +1456,7 @@
             "last_commit": "2024-06-11T11:37:22Z",
             "owner": "forhappy",
             "repo": "awesome-lua",
-            "stars": 409
+            "stars": 410
           }
         }
       ],
@@ -1464,9 +1464,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:26:26.220Z",
-    "original_repository": "myles/awesome-static-generators",
-    "original_repository_id": 24027784,
+    "last_updated": "2026-08-27T12:03:51.591Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 24027784,
+      "language": null,
+      "last_commit": "2026-08-21T18:38:19Z",
+      "owner": "myles",
+      "repo": "awesome-static-generators",
+      "stars": 3768
+    },
     "original_repository_sha": "e58cc400bffaf325f2adb6be2a4c582d756b1a26",
     "enhanced_repository": "enhansome/enhansome-static-generators",
     "enhanced_repository_description": null,
