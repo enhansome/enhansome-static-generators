@@ -19,7 +19,7 @@
             "open_issues": 256,
             "owner": "jekyll",
             "repo": "jekyll",
-            "stars": 51657,
+            "stars": 51658,
             "topics": [
               "blog-engine",
               "jekyll",
@@ -47,7 +47,7 @@
             "open_issues": 74,
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41765,
+            "stars": 41766,
             "topics": [
               "hacktoberfest",
               "hexo",
@@ -75,7 +75,7 @@
             "open_issues": 106,
             "owner": "getpelican",
             "repo": "pelican",
-            "stars": 13338,
+            "stars": 13335,
             "topics": [
               "pelican",
               "python",
@@ -121,7 +121,7 @@
             "open_issues": 0,
             "owner": "imfunniee",
             "repo": "gitfolio",
-            "stars": 6826,
+            "stars": 6825,
             "topics": [
               "awesome",
               "blog",
@@ -150,7 +150,7 @@
             "open_issues": 53,
             "owner": "kabukky",
             "repo": "journey",
-            "stars": 1986,
+            "stars": 1987,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:56.377Z"
@@ -238,7 +238,7 @@
             "open_issues": 99,
             "owner": "elementor",
             "repo": "wp2static",
-            "stars": 1469,
+            "stars": 1470,
             "topics": [
               "strattic"
             ]
@@ -318,7 +318,7 @@
             "open_issues": 6,
             "owner": "hydephp",
             "repo": "hyde",
-            "stars": 485,
+            "stars": 486,
             "topics": [
               "blog-engine",
               "documentation-generator",
@@ -782,6 +782,33 @@
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:56.377Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Mandy",
+          "description": "A light and fast static-site generator. :sparkles: :fire: -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A fast and light static-site generator.",
+            "homepage": "https://alyxshang.boo/mandy",
+            "id": 1356239081,
+            "language": "Rust",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-04T08:08:55Z",
+            "open_issues": 0,
+            "owner": "alyxshang",
+            "repo": "mandy",
+            "stars": 0,
+            "topics": [
+              "fsl-v1",
+              "jirai-kei",
+              "mandy",
+              "rust-lang",
+              "static-site-generator"
+            ]
+          },
+          "first_seen": "2026-09-04T08:14:48.629Z"
         }
       ],
       "title": "Blogs"
@@ -865,7 +892,7 @@
             "open_issues": 50,
             "owner": "slatedocs",
             "repo": "slate",
-            "stars": 36035,
+            "stars": 36032,
             "topics": [
               "api",
               "api-documentation",
@@ -896,7 +923,7 @@
                 "open_issues": 73,
                 "owner": "honkit",
                 "repo": "honkit",
-                "stars": 3502,
+                "stars": 3501,
                 "topics": [
                   "asciidoc",
                   "book",
@@ -918,8 +945,8 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T07:43:41Z",
-            "open_issues": 98,
+            "last_commit": "2026-09-03T20:38:24Z",
+            "open_issues": 99,
             "owner": "GitbookIO",
             "repo": "gitbook",
             "stars": 29019,
@@ -969,12 +996,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Documentation compiler for humans and machines. One Markdown source, one command — website, search, AI context, and knowledge formats together.",
+            "description": "Documentation compiler for humans and machines. One Markdown source to website, search, AI context, and knowledge formats together.",
             "homepage": "https://docmd.io",
             "id": 979799945,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T03:54:32Z",
+            "last_commit": "2026-09-04T03:55:23Z",
             "open_issues": 14,
             "owner": "docmd-io",
             "repo": "docmd",
@@ -1047,7 +1074,7 @@
             "id": 1096937501,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T04:12:37Z",
+            "last_commit": "2026-09-03T14:34:05Z",
             "open_issues": 4,
             "owner": "i3months",
             "repo": "eziwiki",
@@ -1154,11 +1181,11 @@
             "id": 11180687,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T19:46:34Z",
-            "open_issues": 222,
+            "last_commit": "2026-09-03T13:55:54Z",
+            "open_issues": 224,
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 89680,
+            "stars": 89692,
             "topics": [
               "blog-engine",
               "cms",
@@ -1183,11 +1210,11 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T03:31:27Z",
-            "open_issues": 441,
+            "last_commit": "2026-09-04T03:44:46Z",
+            "open_issues": 442,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941,
+            "stars": 55940,
             "topics": [
               "blog",
               "compiler",
@@ -1216,7 +1243,7 @@
             "open_issues": 1,
             "owner": "react-static",
             "repo": "react-static",
-            "stars": 10346,
+            "stars": 10347,
             "topics": [
               "marketing",
               "react",
@@ -1491,7 +1518,7 @@
             "open_issues": 17,
             "owner": "jgm",
             "repo": "yst",
-            "stars": 405,
+            "stars": 406,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:56.377Z"
@@ -1755,7 +1782,7 @@
             "id": 1136152464,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-02T15:32:59Z",
+            "last_commit": "2026-09-04T02:15:03Z",
             "open_issues": 7,
             "owner": "hahwul",
             "repo": "hwaro",
@@ -2055,11 +2082,11 @@
             "id": 877945203,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T02:44:54Z",
+            "last_commit": "2026-09-04T02:42:10Z",
             "open_issues": 2,
             "owner": "ZhgChgLi",
             "repo": "linkyee",
-            "stars": 171,
+            "stars": 172,
             "topics": [
               "ai",
               "bio",
@@ -2098,11 +2125,11 @@
             "id": 38655056,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-02T20:03:43Z",
-            "open_issues": 664,
+            "last_commit": "2026-09-03T12:50:46Z",
+            "open_issues": 663,
             "owner": "rust-lang",
             "repo": "mdBook",
-            "stars": 22114,
+            "stars": 22118,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:56.377Z"
@@ -2123,7 +2150,7 @@
             "open_issues": 91,
             "owner": "gollum",
             "repo": "gollum",
-            "stars": 14320,
+            "stars": 14319,
             "topics": [
               "documentation",
               "documentation-tool",
@@ -2158,7 +2185,7 @@
             "open_issues": 133,
             "owner": "dypsilon",
             "repo": "frontend-dev-bookmarks",
-            "stars": 47460,
+            "stars": 47464,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2184,7 +2211,7 @@
             "open_issues": 18,
             "owner": "diegocard",
             "repo": "awesome-html5",
-            "stars": 2807,
+            "stars": 2808,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2230,7 +2257,7 @@
             "open_issues": 37,
             "owner": "agarrharr",
             "repo": "awesome-static-website-services",
-            "stars": 1985,
+            "stars": 1986,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2312,10 +2339,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T08:48:12Z",
-            "open_issues": 18,
+            "open_issues": 16,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 317870,
+            "stars": 318120,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2343,7 +2370,7 @@
             "open_issues": 26,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66690,
+            "stars": 66699,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2371,7 +2398,7 @@
             "open_issues": 85,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32676,
+            "stars": 32674,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -2506,7 +2533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T08:18:51.000Z",
+    "last_updated": "2026-09-04T08:14:48.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of static web site generators.",
@@ -2515,10 +2542,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-21T18:38:19Z",
-      "open_issues": 12,
+      "open_issues": 13,
       "owner": "myles",
       "repo": "awesome-static-generators",
-      "stars": 3773,
+      "stars": 3774,
       "topics": [
         "awesome-list",
         "website"
