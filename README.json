@@ -19,7 +19,7 @@
             "open_issues": 256,
             "owner": "jekyll",
             "repo": "jekyll",
-            "stars": 51658,
+            "stars": 51659,
             "topics": [
               "blog-engine",
               "jekyll",
@@ -47,7 +47,7 @@
             "open_issues": 74,
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41766,
+            "stars": 41763,
             "topics": [
               "hacktoberfest",
               "hexo",
@@ -75,7 +75,7 @@
             "open_issues": 106,
             "owner": "getpelican",
             "repo": "pelican",
-            "stars": 13335,
+            "stars": 13336,
             "topics": [
               "pelican",
               "python",
@@ -795,7 +795,7 @@
             "id": 1356239081,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T08:08:55Z",
+            "last_commit": "2026-09-04T08:19:20Z",
             "open_issues": 0,
             "owner": "alyxshang",
             "repo": "mandy",
@@ -945,11 +945,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T20:38:24Z",
-            "open_issues": 99,
+            "last_commit": "2026-09-04T16:59:48Z",
+            "open_issues": 100,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29019,
+            "stars": 29023,
             "topics": [
               "documentation",
               "git",
@@ -1005,7 +1005,7 @@
             "open_issues": 14,
             "owner": "docmd-io",
             "repo": "docmd",
-            "stars": 2436,
+            "stars": 2439,
             "topics": [
               "ai-skills",
               "api",
@@ -1181,11 +1181,11 @@
             "id": 11180687,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T13:55:54Z",
-            "open_issues": 224,
+            "last_commit": "2026-09-04T17:44:18Z",
+            "open_issues": 223,
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 89692,
+            "stars": 89702,
             "topics": [
               "blog-engine",
               "cms",
@@ -1214,7 +1214,7 @@
             "open_issues": 442,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55940,
+            "stars": 55936,
             "topics": [
               "blog",
               "compiler",
@@ -1301,7 +1301,7 @@
             "open_issues": 19,
             "owner": "middleman",
             "repo": "middleman",
-            "stars": 7110,
+            "stars": 7109,
             "topics": [
               "middleman",
               "static-site-generator"
@@ -1325,7 +1325,7 @@
             "open_issues": 35,
             "owner": "JohnSundell",
             "repo": "Publish",
-            "stars": 4969,
+            "stars": 4968,
             "topics": [
               "publish",
               "static-site-generator",
@@ -1518,7 +1518,7 @@
             "open_issues": 17,
             "owner": "jgm",
             "repo": "yst",
-            "stars": 406,
+            "stars": 407,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:56.377Z"
@@ -1782,7 +1782,7 @@
             "id": 1136152464,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-04T02:15:03Z",
+            "last_commit": "2026-09-05T01:28:01Z",
             "open_issues": 7,
             "owner": "hahwul",
             "repo": "hwaro",
@@ -2058,7 +2058,7 @@
             "open_issues": 17,
             "owner": "chrisdiana",
             "repo": "cms.js",
-            "stars": 3056,
+            "stars": 3055,
             "topics": [
               "file-based",
               "javascript",
@@ -2082,11 +2082,11 @@
             "id": 877945203,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T02:42:10Z",
+            "last_commit": "2026-09-05T02:43:57Z",
             "open_issues": 2,
             "owner": "ZhgChgLi",
             "repo": "linkyee",
-            "stars": 172,
+            "stars": 174,
             "topics": [
               "ai",
               "bio",
@@ -2126,10 +2126,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-09-03T12:50:46Z",
-            "open_issues": 663,
+            "open_issues": 661,
             "owner": "rust-lang",
             "repo": "mdBook",
-            "stars": 22118,
+            "stars": 22120,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:56.377Z"
@@ -2150,7 +2150,7 @@
             "open_issues": 91,
             "owner": "gollum",
             "repo": "gollum",
-            "stars": 14319,
+            "stars": 14320,
             "topics": [
               "documentation",
               "documentation-tool",
@@ -2185,7 +2185,7 @@
             "open_issues": 133,
             "owner": "dypsilon",
             "repo": "frontend-dev-bookmarks",
-            "stars": 47464,
+            "stars": 47468,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2211,7 +2211,7 @@
             "open_issues": 18,
             "owner": "diegocard",
             "repo": "awesome-html5",
-            "stars": 2808,
+            "stars": 2809,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2236,7 +2236,7 @@
             "open_issues": 5,
             "owner": "heyalexej",
             "repo": "awesome-images",
-            "stars": 2509,
+            "stars": 2508,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:56.377Z"
@@ -2282,7 +2282,7 @@
             "open_issues": 1,
             "owner": "awesome-bootstrap-org",
             "repo": "awesome-bootstrap",
-            "stars": 1435,
+            "stars": 1434,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2339,10 +2339,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T08:48:12Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 318120,
+            "stars": 318339,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2370,7 +2370,7 @@
             "open_issues": 26,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66699,
+            "stars": 66713,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2398,7 +2398,7 @@
             "open_issues": 85,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32674,
+            "stars": 32676,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -2427,7 +2427,7 @@
             "open_issues": 7,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14149,
+            "stars": 14150,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2533,7 +2533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:14:48.629Z",
+    "last_updated": "2026-09-05T07:52:21.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of static web site generators.",
@@ -2545,7 +2545,7 @@
       "open_issues": 13,
       "owner": "myles",
       "repo": "awesome-static-generators",
-      "stars": 3774,
+      "stars": 3776,
       "topics": [
         "awesome-list",
         "website"
