@@ -19,7 +19,7 @@
             "open_issues": 256,
             "owner": "jekyll",
             "repo": "jekyll",
-            "stars": 51659,
+            "stars": 51661,
             "topics": [
               "blog-engine",
               "jekyll",
@@ -47,7 +47,7 @@
             "open_issues": 74,
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41763,
+            "stars": 41765,
             "topics": [
               "hacktoberfest",
               "hexo",
@@ -75,7 +75,7 @@
             "open_issues": 106,
             "owner": "getpelican",
             "repo": "pelican",
-            "stars": 13336,
+            "stars": 13335,
             "topics": [
               "pelican",
               "python",
@@ -257,11 +257,11 @@
             "id": 872582333,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T08:12:50Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-05T08:13:06Z",
+            "open_issues": 6,
             "owner": "rochacbruno",
             "repo": "marmite",
-            "stars": 872,
+            "stars": 873,
             "topics": [
               "blog",
               "blog-engine",
@@ -892,7 +892,7 @@
             "open_issues": 50,
             "owner": "slatedocs",
             "repo": "slate",
-            "stars": 36032,
+            "stars": 36033,
             "topics": [
               "api",
               "api-documentation",
@@ -949,7 +949,7 @@
             "open_issues": 100,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29023,
+            "stars": 29022,
             "topics": [
               "documentation",
               "git",
@@ -1005,7 +1005,7 @@
             "open_issues": 14,
             "owner": "docmd-io",
             "repo": "docmd",
-            "stars": 2439,
+            "stars": 2440,
             "topics": [
               "ai-skills",
               "api",
@@ -1181,11 +1181,11 @@
             "id": 11180687,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T17:44:18Z",
+            "last_commit": "2026-09-05T09:35:40Z",
             "open_issues": 223,
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 89702,
+            "stars": 89714,
             "topics": [
               "blog-engine",
               "cms",
@@ -1211,10 +1211,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-04T03:44:46Z",
-            "open_issues": 442,
+            "open_issues": 443,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55936,
+            "stars": 55939,
             "topics": [
               "blog",
               "compiler",
@@ -1301,7 +1301,7 @@
             "open_issues": 19,
             "owner": "middleman",
             "repo": "middleman",
-            "stars": 7109,
+            "stars": 7110,
             "topics": [
               "middleman",
               "static-site-generator"
@@ -1650,7 +1650,7 @@
             "id": 334249711,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-08-24T20:24:34Z",
+            "last_commit": "2026-09-05T21:35:28Z",
             "open_issues": 1,
             "owner": "loopwerk",
             "repo": "Saga",
@@ -1782,7 +1782,7 @@
             "id": 1136152464,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-09-05T01:28:01Z",
+            "last_commit": "2026-09-06T05:19:13Z",
             "open_issues": 7,
             "owner": "hahwul",
             "repo": "hwaro",
@@ -2058,7 +2058,7 @@
             "open_issues": 17,
             "owner": "chrisdiana",
             "repo": "cms.js",
-            "stars": 3055,
+            "stars": 3054,
             "topics": [
               "file-based",
               "javascript",
@@ -2082,7 +2082,7 @@
             "id": 877945203,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T02:43:57Z",
+            "last_commit": "2026-09-06T02:41:42Z",
             "open_issues": 2,
             "owner": "ZhgChgLi",
             "repo": "linkyee",
@@ -2150,7 +2150,7 @@
             "open_issues": 91,
             "owner": "gollum",
             "repo": "gollum",
-            "stars": 14320,
+            "stars": 14323,
             "topics": [
               "documentation",
               "documentation-tool",
@@ -2185,7 +2185,7 @@
             "open_issues": 133,
             "owner": "dypsilon",
             "repo": "frontend-dev-bookmarks",
-            "stars": 47468,
+            "stars": 47473,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2236,7 +2236,7 @@
             "open_issues": 5,
             "owner": "heyalexej",
             "repo": "awesome-images",
-            "stars": 2508,
+            "stars": 2509,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:56.377Z"
@@ -2342,7 +2342,7 @@
             "open_issues": 17,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 318339,
+            "stars": 318621,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2361,7 +2361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": ":zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]",
+            "description": ":zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]",
             "homepage": "https://node.cool",
             "id": 21737266,
             "language": null,
@@ -2370,7 +2370,7 @@
             "open_issues": 26,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66713,
+            "stars": 66718,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2398,7 +2398,7 @@
             "open_issues": 85,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32676,
+            "stars": 32678,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -2533,7 +2533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T07:52:21.057Z",
+    "last_updated": "2026-09-06T08:08:29.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of static web site generators.",
