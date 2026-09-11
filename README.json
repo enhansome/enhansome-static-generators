@@ -19,7 +19,7 @@
             "open_issues": 258,
             "owner": "jekyll",
             "repo": "jekyll",
-            "stars": 51654,
+            "stars": 51655,
             "topics": [
               "blog-engine",
               "jekyll",
@@ -47,7 +47,7 @@
             "open_issues": 75,
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41762,
+            "stars": 41763,
             "topics": [
               "hacktoberfest",
               "hexo",
@@ -75,7 +75,7 @@
             "open_issues": 106,
             "owner": "getpelican",
             "repo": "pelican",
-            "stars": 13337,
+            "stars": 13338,
             "topics": [
               "pelican",
               "python",
@@ -100,7 +100,7 @@
             "open_issues": 243,
             "owner": "imathis",
             "repo": "octopress",
-            "stars": 9234,
+            "stars": 9235,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:56.377Z"
@@ -832,7 +832,7 @@
             "open_issues": 2,
             "owner": "jonradoff",
             "repo": "lightcms",
-            "stars": 28,
+            "stars": 29,
             "topics": [
               "agentic-workflow",
               "content-management-system",
@@ -945,11 +945,11 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-10T08:06:27Z",
-            "open_issues": 104,
+            "last_commit": "2026-09-11T06:43:16Z",
+            "open_issues": 105,
             "owner": "GitbookIO",
             "repo": "gitbook",
-            "stars": 29024,
+            "stars": 29026,
             "topics": [
               "documentation",
               "git",
@@ -1005,7 +1005,7 @@
             "open_issues": 4,
             "owner": "docmd-io",
             "repo": "docmd",
-            "stars": 2446,
+            "stars": 2448,
             "topics": [
               "ai-skills",
               "api",
@@ -1121,7 +1121,7 @@
             "open_issues": 4,
             "owner": "Tsukumogami-Software",
             "repo": "milou",
-            "stars": 42,
+            "stars": 43,
             "topics": [
               "nodejs",
               "press-kit",
@@ -1181,11 +1181,11 @@
             "id": 11180687,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T15:10:46Z",
-            "open_issues": 221,
+            "last_commit": "2026-09-10T09:40:28Z",
+            "open_issues": 225,
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 89765,
+            "stars": 89782,
             "topics": [
               "blog-engine",
               "cms",
@@ -1210,8 +1210,8 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T07:28:20Z",
-            "open_issues": 443,
+            "last_commit": "2026-09-10T18:14:19Z",
+            "open_issues": 445,
             "owner": "gatsbyjs",
             "repo": "gatsby",
             "stars": 55939,
@@ -1243,7 +1243,7 @@
             "open_issues": 1,
             "owner": "react-static",
             "repo": "react-static",
-            "stars": 10346,
+            "stars": 10345,
             "topics": [
               "marketing",
               "react",
@@ -1271,7 +1271,7 @@
             "open_issues": 21,
             "owner": "metalsmith",
             "repo": "metalsmith",
-            "stars": 7822,
+            "stars": 7821,
             "topics": [
               "javascript",
               "markdown",
@@ -1301,7 +1301,7 @@
             "open_issues": 19,
             "owner": "middleman",
             "repo": "middleman",
-            "stars": 7111,
+            "stars": 7110,
             "topics": [
               "middleman",
               "static-site-generator"
@@ -1567,6 +1567,27 @@
         },
         {
           "node_type": "item",
+          "title": "Gaiden",
+          "description": "A tool that makes it easy to create documentation with Markdown. -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Gaiden is a tool that makes it easy to create documentation with Markdown.",
+            "homepage": null,
+            "id": 13151435,
+            "language": "Groovy",
+            "license": "Apache-2.0",
+            "last_commit": "2022-12-16T01:23:37Z",
+            "open_issues": 10,
+            "owner": "kobo",
+            "repo": "gaiden",
+            "stars": 172,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:41:56.377Z"
+        },
+        {
+          "node_type": "item",
           "title": "AspNetStatic",
           "description": null,
           "children": [],
@@ -1594,27 +1615,6 @@
         },
         {
           "node_type": "item",
-          "title": "Gaiden",
-          "description": "A tool that makes it easy to create documentation with Markdown. -",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Gaiden is a tool that makes it easy to create documentation with Markdown.",
-            "homepage": null,
-            "id": 13151435,
-            "language": "Groovy",
-            "license": "Apache-2.0",
-            "last_commit": "2022-12-16T01:23:37Z",
-            "open_issues": 10,
-            "owner": "kobo",
-            "repo": "gaiden",
-            "stars": 171,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:41:56.377Z"
-        },
-        {
-          "node_type": "item",
           "title": "Grain",
           "description": null,
           "children": [],
@@ -1629,7 +1629,7 @@
             "open_issues": 0,
             "owner": "sysgears",
             "repo": "grain",
-            "stars": 162,
+            "stars": 163,
             "topics": [
               "grain-framework",
               "groovy",
@@ -2024,7 +2024,7 @@
             "open_issues": 1,
             "owner": "waynezhang",
             "repo": "foto",
-            "stars": 135,
+            "stars": 136,
             "topics": [
               "gallery-application",
               "minimalist",
@@ -2082,11 +2082,11 @@
             "id": 877945203,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T02:52:42Z",
+            "last_commit": "2026-09-11T02:46:52Z",
             "open_issues": 2,
             "owner": "ZhgChgLi",
             "repo": "linkyee",
-            "stars": 174,
+            "stars": 175,
             "topics": [
               "ai",
               "bio",
@@ -2126,10 +2126,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-09-08T15:44:55Z",
-            "open_issues": 661,
+            "open_issues": 663,
             "owner": "rust-lang",
             "repo": "mdBook",
-            "stars": 22130,
+            "stars": 22129,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:56.377Z"
@@ -2150,7 +2150,7 @@
             "open_issues": 91,
             "owner": "gollum",
             "repo": "gollum",
-            "stars": 14323,
+            "stars": 14325,
             "topics": [
               "documentation",
               "documentation-tool",
@@ -2339,10 +2339,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T08:48:12Z",
-            "open_issues": 18,
+            "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 319643,
+            "stars": 319887,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2370,7 +2370,7 @@
             "open_issues": 25,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66761,
+            "stars": 66772,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2398,7 +2398,7 @@
             "open_issues": 89,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32685,
+            "stars": 32687,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -2427,7 +2427,7 @@
             "open_issues": 8,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14151,
+            "stars": 14152,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2452,7 +2452,7 @@
             "language": "Elixir",
             "license": "MIT",
             "last_commit": "2025-10-12T18:06:13Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "h4cc",
             "repo": "awesome-elixir",
             "stars": 13168,
@@ -2533,7 +2533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T08:26:01.343Z",
+    "last_updated": "2026-09-11T08:20:21.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of static web site generators.",
@@ -2542,10 +2542,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-21T18:38:19Z",
-      "open_issues": 14,
+      "open_issues": 15,
       "owner": "myles",
       "repo": "awesome-static-generators",
-      "stars": 3771,
+      "stars": 3773,
       "topics": [
         "awesome-list",
         "website"
