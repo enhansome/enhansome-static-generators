@@ -19,7 +19,7 @@
             "open_issues": 253,
             "owner": "jekyll",
             "repo": "jekyll",
-            "stars": 51706,
+            "stars": 51704,
             "topics": [
               "blog-engine",
               "jekyll",
@@ -257,11 +257,11 @@
             "id": 872582333,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-29T14:53:00Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-03T08:13:23Z",
+            "open_issues": 8,
             "owner": "rochacbruno",
             "repo": "marmite",
-            "stars": 879,
+            "stars": 880,
             "topics": [
               "blog",
               "blog-engine",
@@ -375,7 +375,7 @@
             "open_issues": 24,
             "owner": "vladris",
             "repo": "tinkerer",
-            "stars": 302,
+            "stars": 301,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:56.377Z"
@@ -1005,7 +1005,7 @@
             "open_issues": 5,
             "owner": "docmd-io",
             "repo": "docmd",
-            "stars": 2503,
+            "stars": 2504,
             "topics": [
               "ai-skills",
               "api",
@@ -1185,7 +1185,7 @@
             "open_issues": 201,
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 90017,
+            "stars": 90022,
             "topics": [
               "blog-engine",
               "cms",
@@ -1214,7 +1214,7 @@
             "open_issues": 451,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941,
+            "stars": 55942,
             "topics": [
               "blog",
               "compiler",
@@ -2129,7 +2129,7 @@
             "open_issues": 657,
             "owner": "rust-lang",
             "repo": "mdBook",
-            "stars": 22186,
+            "stars": 22187,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:56.377Z"
@@ -2185,7 +2185,7 @@
             "open_issues": 135,
             "owner": "dypsilon",
             "repo": "frontend-dev-bookmarks",
-            "stars": 47585,
+            "stars": 47587,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2342,7 +2342,7 @@
             "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 324780,
+            "stars": 324813,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2370,7 +2370,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66985,
+            "stars": 66990,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2398,7 +2398,7 @@
             "open_issues": 94,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32722,
+            "stars": 32723,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -2533,7 +2533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:09:19.931Z",
+    "last_updated": "2026-10-03T09:27:01.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of static web site generators.",
