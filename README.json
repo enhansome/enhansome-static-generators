@@ -19,7 +19,7 @@
             "open_issues": 253,
             "owner": "jekyll",
             "repo": "jekyll",
-            "stars": 51699,
+            "stars": 51706,
             "topics": [
               "blog-engine",
               "jekyll",
@@ -47,7 +47,7 @@
             "open_issues": 75,
             "owner": "hexojs",
             "repo": "hexo",
-            "stars": 41775,
+            "stars": 41772,
             "topics": [
               "hacktoberfest",
               "hexo",
@@ -121,7 +121,7 @@
             "open_issues": 0,
             "owner": "imfunniee",
             "repo": "gitfolio",
-            "stars": 6827,
+            "stars": 6828,
             "topics": [
               "awesome",
               "blog",
@@ -137,7 +137,7 @@
         {
           "node_type": "item",
           "title": "Journey",
-          "description": null,
+          "description": "kabukky/journey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,7 +200,7 @@
         {
           "node_type": "item",
           "title": "Hyde",
-          "description": null,
+          "description": "hyde/hyde",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -261,7 +261,7 @@
             "open_issues": 7,
             "owner": "rochacbruno",
             "repo": "marmite",
-            "stars": 878,
+            "stars": 879,
             "topics": [
               "blog",
               "blog-engine",
@@ -336,7 +336,7 @@
         {
           "node_type": "item",
           "title": "Spress",
-          "description": null,
+          "description": "spress/spress",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -362,7 +362,7 @@
         {
           "node_type": "item",
           "title": "Tinkerer",
-          "description": null,
+          "description": "vladris/tinkerer",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -828,7 +828,7 @@
             "id": 1140672261,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-02T01:30:33Z",
+            "last_commit": "2026-10-03T03:46:18Z",
             "open_issues": 2,
             "owner": "jonradoff",
             "repo": "lightcms",
@@ -879,7 +879,7 @@
         {
           "node_type": "item",
           "title": "Slate",
-          "description": null,
+          "description": "slatedocs/slate",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -923,7 +923,7 @@
                 "open_issues": 75,
                 "owner": "honkit",
                 "repo": "honkit",
-                "stars": 3514,
+                "stars": 3515,
                 "topics": [
                   "asciidoc",
                   "book",
@@ -945,8 +945,8 @@
             "id": 18280236,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T08:56:05Z",
-            "open_issues": 107,
+            "last_commit": "2026-10-02T21:03:08Z",
+            "open_issues": 104,
             "owner": "GitbookIO",
             "repo": "gitbook",
             "stars": 29058,
@@ -962,7 +962,7 @@
         {
           "node_type": "item",
           "title": "DocPad",
-          "description": null,
+          "description": "docpad/docpad",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1002,7 +1002,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T03:54:28Z",
-            "open_issues": 3,
+            "open_issues": 5,
             "owner": "docmd-io",
             "repo": "docmd",
             "stars": 2503,
@@ -1182,10 +1182,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T17:33:28Z",
-            "open_issues": 200,
+            "open_issues": 201,
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 90012,
+            "stars": 90017,
             "topics": [
               "blog-engine",
               "cms",
@@ -1201,7 +1201,7 @@
         {
           "node_type": "item",
           "title": "Gatsby",
-          "description": null,
+          "description": "gatsbyjs/gatsby",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1243,7 +1243,7 @@
             "open_issues": 1,
             "owner": "react-static",
             "repo": "react-static",
-            "stars": 10336,
+            "stars": 10337,
             "topics": [
               "marketing",
               "react",
@@ -1271,7 +1271,7 @@
             "open_issues": 22,
             "owner": "metalsmith",
             "repo": "metalsmith",
-            "stars": 7820,
+            "stars": 7819,
             "topics": [
               "javascript",
               "markdown",
@@ -1301,7 +1301,7 @@
             "open_issues": 19,
             "owner": "middleman",
             "repo": "middleman",
-            "stars": 7109,
+            "stars": 7110,
             "topics": [
               "middleman",
               "static-site-generator"
@@ -1325,7 +1325,7 @@
             "open_issues": 35,
             "owner": "JohnSundell",
             "repo": "Publish",
-            "stars": 4969,
+            "stars": 4970,
             "topics": [
               "publish",
               "static-site-generator",
@@ -1338,7 +1338,7 @@
         {
           "node_type": "item",
           "title": "Wintersmith",
-          "description": null,
+          "description": "jnordberg/wintersmith",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1363,7 +1363,7 @@
         {
           "node_type": "item",
           "title": "Cactus",
-          "description": null,
+          "description": "eudicots/Cactus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1397,7 +1397,7 @@
             "open_issues": 123,
             "owner": "jaspervdj",
             "repo": "hakyll",
-            "stars": 2869,
+            "stars": 2870,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:56.377Z"
@@ -1451,7 +1451,7 @@
         {
           "node_type": "item",
           "title": "JBake",
-          "description": null,
+          "description": "jbake-org/jbake",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1526,7 +1526,7 @@
         {
           "node_type": "item",
           "title": "obelisk",
-          "description": null,
+          "description": "BennyHallett/obelisk",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1547,7 +1547,7 @@
         {
           "node_type": "item",
           "title": "Tags",
-          "description": null,
+          "description": "braceio/tags",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1589,7 +1589,7 @@
         {
           "node_type": "item",
           "title": "AspNetStatic",
-          "description": null,
+          "description": "ZarehD/AspNetStatic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1616,7 +1616,7 @@
         {
           "node_type": "item",
           "title": "Grain",
-          "description": null,
+          "description": "sysgears/grain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1668,7 +1668,7 @@
         {
           "node_type": "item",
           "title": "LambdaPad",
-          "description": null,
+          "description": "gar1t/lambdapad",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1689,7 +1689,7 @@
         {
           "node_type": "item",
           "title": "Sitegen",
-          "description": null,
+          "description": "leafo/sitegen",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1710,7 +1710,7 @@
         {
           "node_type": "item",
           "title": "coil",
-          "description": null,
+          "description": "badosu/coil",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1782,7 +1782,7 @@
             "id": 1136152464,
             "language": "Crystal",
             "license": "MIT",
-            "last_commit": "2026-10-01T16:22:26Z",
+            "last_commit": "2026-10-02T14:32:30Z",
             "open_issues": 6,
             "owner": "hahwul",
             "repo": "hwaro",
@@ -1935,7 +1935,7 @@
             "id": 960323395,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-18T07:47:02Z",
+            "last_commit": "2026-10-02T18:52:42Z",
             "open_issues": 2,
             "owner": "elektrischerwalfisch",
             "repo": "flatmark",
@@ -2082,7 +2082,7 @@
             "id": 877945203,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T03:51:16Z",
+            "last_commit": "2026-10-03T03:35:43Z",
             "open_issues": 2,
             "owner": "ZhgChgLi",
             "repo": "linkyee",
@@ -2129,7 +2129,7 @@
             "open_issues": 657,
             "owner": "rust-lang",
             "repo": "mdBook",
-            "stars": 22183,
+            "stars": 22186,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:56.377Z"
@@ -2150,7 +2150,7 @@
             "open_issues": 91,
             "owner": "gollum",
             "repo": "gollum",
-            "stars": 14338,
+            "stars": 14337,
             "topics": [
               "documentation",
               "documentation-tool",
@@ -2172,7 +2172,7 @@
         {
           "node_type": "item",
           "title": "Frontend Development",
-          "description": null,
+          "description": "dypsilon/frontend-dev-bookmarks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2185,7 +2185,7 @@
             "open_issues": 135,
             "owner": "dypsilon",
             "repo": "frontend-dev-bookmarks",
-            "stars": 47584,
+            "stars": 47585,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2198,7 +2198,7 @@
         {
           "node_type": "item",
           "title": "Awesome HTML5",
-          "description": null,
+          "description": "diegocard/awesome-html5",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2257,7 +2257,7 @@
             "open_issues": 39,
             "owner": "agarrharr",
             "repo": "awesome-static-website-services",
-            "stars": 1989,
+            "stars": 1990,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2329,7 +2329,7 @@
         {
           "node_type": "item",
           "title": "vinta/awesome-python - Static Site Generators",
-          "description": null,
+          "description": "vinta/awesome-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2338,11 +2338,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T09:14:10Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-02T12:01:28Z",
+            "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 324608,
+            "stars": 324780,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2357,7 +2357,7 @@
         {
           "node_type": "item",
           "title": "sindresorhus/awesome-nodejs - Static Site Generators",
-          "description": null,
+          "description": "sindresorhus/awesome-nodejs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2370,7 +2370,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66975,
+            "stars": 66985,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2385,7 +2385,7 @@
         {
           "node_type": "item",
           "title": "ziadoz/awesome-php - Static Site Generators",
-          "description": null,
+          "description": "ziadoz/awesome-php",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2398,7 +2398,7 @@
             "open_issues": 94,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32719,
+            "stars": 32722,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -2414,7 +2414,7 @@
         {
           "node_type": "item",
           "title": "markets/awesome-ruby - Static Site Generators",
-          "description": null,
+          "description": "markets/awesome-ruby",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2427,7 +2427,7 @@
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14163,
+            "stars": 14164,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2442,7 +2442,7 @@
         {
           "node_type": "item",
           "title": "h4cc/awesome-elixir - Static Page Generation",
-          "description": null,
+          "description": "h4cc/awesome-elixir",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2455,7 +2455,7 @@
             "open_issues": 36,
             "owner": "h4cc",
             "repo": "awesome-elixir",
-            "stars": 13168,
+            "stars": 13167,
             "topics": []
           },
           "first_seen": "2026-08-28T15:41:56.377Z"
@@ -2463,7 +2463,7 @@
         {
           "node_type": "item",
           "title": "Sdogruyol/awesome-ruby - Static Page Generation",
-          "description": null,
+          "description": "sdogruyol/awesome-ruby",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2484,7 +2484,7 @@
         {
           "node_type": "item",
           "title": "kdabir/awesome-groovy - Static Web",
-          "description": null,
+          "description": "kdabir/awesome-groovy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2510,7 +2510,7 @@
         {
           "node_type": "item",
           "title": "forhappy/awesome-lua - Static Site Generator",
-          "description": null,
+          "description": "forhappy/awesome-lua",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2533,7 +2533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:04:26.182Z",
+    "last_updated": "2026-10-03T05:09:19.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of static web site generators.",
