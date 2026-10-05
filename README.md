@@ -1,6 +1,6 @@
 # Awesome Static Web Site Generators with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,393 | 🐛 107 | 📅 2026-09-02 [![Changelog Feed](https://mozorg.cdn.mozilla.net/media/img/trademarks/feed-icon-14x14.png)](https://github.com/myles/awesome-static-generators/commits/master/README.md.atom)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,898 | 🐛 107 | 📅 2026-09-02 [![Changelog Feed](https://mozorg.cdn.mozilla.net/media/img/trademarks/feed-icon-14x14.png)](https://github.com/myles/awesome-static-generators/commits/master/README.md.atom)
 
 A static web site generator is an application that takes plain text files and compiles them to HTML files.
 
@@ -27,9 +27,9 @@ A static web site generator is an application that takes plain text files and co
 
 ### Blogs
 
-* [Jekyll](https://github.com/jekyll/jekyll) ⭐ 51,707 | 🐛 253 | 🌐 Ruby | 📅 2026-09-17 - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. - `#Ruby`
-* [Hexo](https://github.com/hexojs/hexo) ⭐ 41,774 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-29 - A fast, simple & powerful blog framework. - `#JavaScript` `#Node.js`
-* [Pelican](https://github.com/getpelican/pelican) ⭐ 13,347 | 🐛 110 | 🌐 Python | 📅 2026-04-20 - Uses Markdown or ReST for content and Jinja2 for themes. - `#Python`
+* [Jekyll](https://github.com/jekyll/jekyll) ⭐ 51,706 | 🐛 254 | 🌐 Ruby | 📅 2026-09-17 - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. - `#Ruby`
+* [Hexo](https://github.com/hexojs/hexo) ⭐ 41,773 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-29 - A fast, simple & powerful blog framework. - `#JavaScript` `#Node.js`
+* [Pelican](https://github.com/getpelican/pelican) ⭐ 13,351 | 🐛 110 | 🌐 Python | 📅 2026-04-20 - Uses Markdown or ReST for content and Jinja2 for themes. - `#Python`
 * [Octopress](https://github.com/imathis/octopress) ⭐ 9,234 | 🐛 242 | 🌐 Ruby | 📅 2024-03-29 - Similar to Jekyll but where everything you need is already setup. - `#Ruby` `#Jekyll`
 * [Gitfolio](https://github.com/imfunniee/gitfolio) ⚠️ Archived - A portfolio website where you could showcase your work + a blog that will help you spread your ideas into real world. - `#Node.js`
 * [Journey](https://github.com/kabukky/journey) ⭐ 1,985 | 🐛 53 | 🌐 Go | 📅 2023-10-05 - `#Go`
@@ -98,10 +98,10 @@ A static web site generator is an application that takes plain text files and co
 ### Documentation
 
 * [Slate](https://github.com/lord/slate) ⚠️ Archived - `#Ruby`
-* [GitBook](https://github.com/GitbookIO/gitbook) ⭐ 29,060 | 🐛 104 | 🌐 TypeScript | 📅 2026-10-02 - Modern documentation format and toolchain using Git and Markdown. - `#GitBook`
-  * [HonKit](https://github.com/honkit/honkit) ⭐ 3,515 | 🐛 75 | 🌐 TypeScript | 📅 2026-09-13 - Community-maintained fork of GitBook wiith ongoing plugin and core maintenance. - `#HonKit`
+* [GitBook](https://github.com/GitbookIO/gitbook) ⭐ 29,061 | 🐛 105 | 🌐 TypeScript | 📅 2026-10-05 - Modern documentation format and toolchain using Git and Markdown. - `#GitBook`
+  * [HonKit](https://github.com/honkit/honkit) ⭐ 3,516 | 🐛 75 | 🌐 TypeScript | 📅 2026-09-13 - Community-maintained fork of GitBook wiith ongoing plugin and core maintenance. - `#HonKit`
 * [DocPad](https://github.com/docpad/docpad) ⭐ 3,045 | 🐛 37 | 🌐 CoffeeScript | 📅 2024-02-11 - `#JavaScript` `#CoffeeScript` `#Node.js`
-* [docmd](https://github.com/mgks/docmd) ⭐ 2,504 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-02 - Markdown to HTML documentation site generator with custom containers and offline search. - `#Node.js` `#Markdown` `#JavaScript`
+* [docmd](https://github.com/mgks/docmd) ⭐ 2,506 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-02 - Markdown to HTML documentation site generator with custom containers and offline search. - `#Node.js` `#Markdown` `#JavaScript`
 * [Doctave](https://github.com/Doctave/doctave) ⭐ 671 | 🐛 24 | 🌐 Rust | 📅 2022-09-19 - A batteries-included developer documentation site generator. - `#Rust`
 * [eziwiki](https://github.com/i3months/eziwiki) ⭐ 109 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-21 - Modern documentation and wiki generator. - `#Next.js` `#TypeScript`
 * [Docnado](https://heinventions.github.io/docnado-site) - A rapid documentation tool that will blow you away; batteries and style included. - `#Python` `#Jinja2`
@@ -128,18 +128,18 @@ A static web site generator is an application that takes plain text files and co
 
 ### Frameworks
 
-* [Hugo](https://github.com/spf13/hugo) ⭐ 90,033 | 🐛 205 | 🌐 Go | 📅 2026-10-01 - It is optimized for speed, easy use and configurability. - `#Go`
-* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,943 | 🐛 453 | 🌐 JavaScript | 📅 2026-10-03 - `#JavaScript` `#Node.js` `#React.js`
+* [Hugo](https://github.com/spf13/hugo) ⭐ 90,041 | 🐛 207 | 🌐 Go | 📅 2026-10-05 - It is optimized for speed, easy use and configurability. - `#Go`
+* [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,941 | 🐛 453 | 🌐 JavaScript | 📅 2026-10-03 - `#JavaScript` `#Node.js` `#React.js`
 * [React Static](https://github.com/nozzle/react-static) ⭐ 10,336 | 🐛 1 | 🌐 JavaScript | 📅 2022-10-31 - A progressive static-site framework for React. - `#React.js`
-* [Metalsmith](https://github.com/segmentio/metalsmith) ⭐ 7,819 | 🐛 22 | 🌐 JavaScript | 📅 2026-02-09 - An extremely simple, pluggable static site generator. - `#JavaScript` `#Node.js`
-* [Middleman](https://github.com/middleman/middleman) ⭐ 7,111 | 🐛 19 | 🌐 Ruby | 📅 2026-08-24 - Middleman is a static site generator using all the shortcuts and tools in modern web development. - `#Ruby`
-* [Publish](https://github.com/JohnSundell/Publish) ⭐ 4,970 | 🐛 35 | 🌐 Swift | 📅 2024-07-09 - enables entire websites to be built using Swift, and supports themes, plugins and tons of other powerful customization options - `#Swift`
+* [Metalsmith](https://github.com/segmentio/metalsmith) ⭐ 7,818 | 🐛 22 | 🌐 JavaScript | 📅 2026-02-09 - An extremely simple, pluggable static site generator. - `#JavaScript` `#Node.js`
+* [Middleman](https://github.com/middleman/middleman) ⭐ 7,112 | 🐛 19 | 🌐 Ruby | 📅 2026-08-24 - Middleman is a static site generator using all the shortcuts and tools in modern web development. - `#Ruby`
+* [Publish](https://github.com/JohnSundell/Publish) ⭐ 4,969 | 🐛 35 | 🌐 Swift | 📅 2024-07-09 - enables entire websites to be built using Swift, and supports themes, plugins and tons of other powerful customization options - `#Swift`
 * [Wintersmith](https://github.com/jnordberg/wintersmith) ⭐ 3,477 | 🐛 18 | 🌐 CoffeeScript | 📅 2021-07-15 - `#JavaScript` `#Node.js`
-* [Cactus](https://github.com/koenbok/Cactus) ⭐ 3,465 | 🐛 99 | 🌐 Python | 📅 2023-08-28 - `#Python`
+* [Cactus](https://github.com/koenbok/Cactus) ⭐ 3,466 | 🐛 99 | 🌐 Python | 📅 2023-08-28 - `#Python`
 * [Hakyll](https://github.com/jaspervdj/hakyll) ⭐ 2,870 | 🐛 123 | 🌐 Haskell | 📅 2026-09-29 - Hakyll is a Haskell library for generating static sites, mostly aimed at small-to-medium sites and personal blogs. It is written in a very configurable way and uses an xmonad-like DSL for configuration. - `#Haskell`
 * [Scully](https://github.com/scullyio/scully) ⭐ 2,527 | 🐛 121 | 🌐 TypeScript | 📅 2023-08-31 - The Static Site Generator for Angular apps. - `#TypeScript` `#Angular`
 * [nanoc](https://github.com/nanoc/nanoc) ⭐ 2,158 | 🐛 17 | 🌐 Ruby | 📅 2026-09-28 - Flexible support for small personal to large corporate web sites. - `#Ruby`
-* [JBake](https://github.com/jbake-org/jbake) ⭐ 1,160 | 🐛 169 | 🌐 Java | 📅 2025-12-30 `#Java`
+* [JBake](https://github.com/jbake-org/jbake) ⭐ 1,161 | 🐛 169 | 🌐 Java | 📅 2025-12-30 `#Java`
 * [Flask-Frozen](https://github.com/SimonSapin/Frozen-Flask) ⭐ 797 | 🐛 13 | 🌐 Python | 📅 2024-11-12 - Freezes a Flask application into a set of static files. - `#Python` `#Flask`
 * [yst](https://github.com/jgm/yst) ⭐ 408 | 🐛 17 | 🌐 Haskell | 📅 2026-01-21 - Powered by YAML. - `#Haskell`
 * [obelisk](https://github.com/BennyHallett/obelisk) ⚠️ Archived - `#elixir`
@@ -152,13 +152,13 @@ A static web site generator is an application that takes plain text files and co
 * [Sitegen](https://github.com/leafo/sitegen) ⭐ 84 | 🐛 5 | 🌐 Lua | 📅 2026-08-13 - `#Lua` `#MoonScript`
 * [coil](https://github.com/badosu/coil) ⭐ 69 | 🐛 0 | 🌐 Elixir | 📅 2014-03-30 - `#elixir`
 * [Bengal](https://github.com/lbliii/bengal) ⭐ 49 | 🐛 75 | 🌐 Python | 📅 2026-08-17 - A Python static site generator for documentation, blogs, and product sites. - `#Python` `#Markdown`
-* [Hwaro](https://github.com/hahwul/hwaro) ⭐ 40 | 🐛 12 | 🌐 Crystal | 📅 2026-10-04 - Hwaro (화로) is a lightweight and fast static site generator written in Crystal. - `#Crystal`
+* [Hwaro](https://github.com/hahwul/hwaro) ⭐ 40 | 🐛 6 | 🌐 Crystal | 📅 2026-10-05 - Hwaro (화로) is a lightweight and fast static site generator written in Crystal. - `#Crystal`
 * [Goldsmith](https://github.com/FooSoft/goldsmith) ⚠️ Archived - Fast and simple pipeline-based static site generator, extensible via plugins. `#Go`
-* [Blurry](https://github.com/blurry-dev/blurry) ⭐ 36 | 🐛 14 | 🌐 Python | 📅 2026-10-01 - Blurry is a schema-first, plugin-enabled static site generator. Markdown front matter directly to Schema.org types, so your content is SEO-friendly and rich results-ready out of the box. - `#Python`
+* [Blurry](https://github.com/blurry-dev/blurry) ⭐ 36 | 🐛 7 | 🌐 Python | 📅 2026-10-04 - Blurry is a schema-first, plugin-enabled static site generator. Markdown front matter directly to Schema.org types, so your content is SEO-friendly and rich results-ready out of the box. - `#Python`
 * [Capro](https://github.com/xy2z/capro) ⭐ 10 | 🐛 9 | 🌐 PHP | 📅 2026-09-24 - Flexible PHP8 static site generator, using Blade template engine. - `#PHP` `#Blade`
 * [wmk](https://github.com/bk/wmk) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-01-14 - Flexible and versatile, uses Mako templates - `#Python`
 * [Dewar](https://github.com/tfpk/dewar) ⭐ 3 | 🐛 8 | 🌐 Python | 📅 2022-12-08 - A flask-like static site generator. - `#Python`
-* [flatMark](https://github.com/elektrischerwalfisch/flatmark) ⭐ 2 | 🐛 2 | 🌐 PHP | 📅 2026-10-04 - A lightweight, flat-file Markdown-based website generator - `#PHP` `#Markdown`
+* [flatMark](https://github.com/elektrischerwalfisch/flatmark) ⭐ 2 | 🐛 4 | 🌐 PHP | 📅 2026-10-04 - A lightweight, flat-file Markdown-based website generator - `#PHP` `#Markdown`
 * [Assemble](http://assemble.io/) - `#JavaScript` `#Node.js`
 * [Astro](https://docs.astro.build/) - Framework agnostic static site generator with component-level support for partial hydration on page load, page idle, component visible or none. - `#JavaScript` `#Node.Js` `#React.js` `#Vue.js` `#Svelte.js`
 * [Bridgetown](https://www.bridgetownrb.com/) - A next-generation, progressive site generator & fullstack framework, powered by Ruby. - `#Ruby`
@@ -210,7 +210,7 @@ A static web site generator is an application that takes plain text files and co
 ### Single Page
 
 * [CMS.js](https://github.com/chrisdiana/cms.js) ⭐ 3,050 | 🐛 17 | 🌐 JavaScript | 📅 2024-07-04 - A fully client-side, JavaScript Markdown site generator. - `#JavaScript`
-* [linkyee](https://github.com/ZhgChgLi/linkyee) ⭐ 180 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-04 - A fully customized, open-source LinkTree alternative deployed directly on GitHub Pages. - `#Ruby`
+* [linkyee](https://github.com/ZhgChgLi/linkyee) ⭐ 180 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-05 - A fully customized, open-source LinkTree alternative deployed directly on GitHub Pages. - `#Ruby`
 * [Flatdoc](http://ricostacruz.com/flatdoc/) - A small JavaScript file that fetches Markdown files and renders them as full pages. - `#JavaScript`
 
 ### Tools
@@ -220,8 +220,8 @@ A static web site generator is an application that takes plain text files and co
 
 ### Wikis
 
-* [mdBook](https://github.com/rust-lang/mdBook) ⭐ 22,191 | 🐛 658 | 🌐 Rust | 📅 2026-10-04 - Create book from markdown files. Like Gitbook but implemented in Rust. - `#Rust`
-* [Gollum](https://github.com/gollum/gollum) ⭐ 14,337 | 🐛 91 | 🌐 Ruby | 📅 2025-11-24 - Gollum is a simple wiki system built on top of Git. - `#Ruby`
+* [mdBook](https://github.com/rust-lang/mdBook) ⭐ 22,193 | 🐛 658 | 🌐 Rust | 📅 2026-10-04 - Create book from markdown files. Like Gitbook but implemented in Rust. - `#Rust`
+* [Gollum](https://github.com/gollum/gollum) ⭐ 14,336 | 🐛 91 | 🌐 Ruby | 📅 2025-11-24 - Gollum is a simple wiki system built on top of Git. - `#Ruby`
 * [ikiwiki](https://ikiwiki.info/) - `#Perl`
 * [Orchid Wiki](https://orchidhq.github.io/Orchid/wiki/learn/tutorials/how-to-document-kotlin#wiki) - A Gitbook-like wiki for your Orchid site. - `#Orchid` `#Java` `#Kotlin`
 
@@ -258,20 +258,20 @@ A static web site generator is an application that takes plain text files and co
 
 Awesome lists that help you with your new static web site.
 
-* [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,588 | 🐛 135 | 📅 2024-05-21
+* [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,587 | 🐛 136 | 📅 2024-05-21
 * [Awesome HTML5](https://github.com/diegocard/awesome-html5) ⭐ 2,811 | 🐛 18 | 📅 2023-09-26
 * [Awesome Images](https://github.com/heyalexej/awesome-images) ⭐ 2,513 | 🐛 10 | 📅 2026-07-06 - A curated list of amazingly awesome free (stock) photo resources.
-* [Awesome Static Website Services](https://github.com/aharris88/awesome-static-website-services) ⭐ 1,990 | 🐛 39 | 📅 2026-04-20 - A curated list of awesome static websites services
+* [Awesome Static Website Services](https://github.com/aharris88/awesome-static-website-services) ⭐ 1,990 | 🐛 40 | 📅 2026-04-20 - A curated list of awesome static websites services
 * [Awesome Bootstrap](https://github.com/therebelrobot/awesome-bootstrap) ⭐ 1,435 | 🐛 1 | 🌐 JavaScript | 📅 2023-11-02 - A curated list of free Bootstrap themes.
 * [Awesome Static Hosting Providers](https://github.com/b-long/awesome-static-hosting) ⭐ 311 | 🐛 8 | 🌐 Python | 📅 2026-06-22 - A collection of awesome static hosting providers and related resources.
 * [Creative Commons Media](https://github.com/shime/creative-commons-media) - A curated list of resources that provide media licensed under Creative Commons licenses.
 
 ## Static Web Site Generators in Other Awesome Lists
 
-* [vinta/awesome-python - Static Site Generators](https://github.com/vinta/awesome-python#static-site-generator) ⭐ 325,046 | 🐛 22 | 🌐 Python | 📅 2026-10-02
-* [sindresorhus/awesome-nodejs - Static Site Generators](https://github.com/sindresorhus/awesome-nodejs#static-site-generators) ⭐ 66,996 | 🐛 24 | 📅 2026-09-02
-* [ziadoz/awesome-php - Static Site Generators](https://github.com/ziadoz/awesome-php#static-site-generators) ⭐ 32,724 | 🐛 94 | 📅 2026-09-27
-* [markets/awesome-ruby - Static Site Generators](https://github.com/markets/awesome-ruby#static-site-generation) ⭐ 14,165 | 🐛 9 | 📅 2026-10-04
+* [vinta/awesome-python - Static Site Generators](https://github.com/vinta/awesome-python#static-site-generator) ⭐ 325,286 | 🐛 19 | 🌐 Python | 📅 2026-10-02
+* [sindresorhus/awesome-nodejs - Static Site Generators](https://github.com/sindresorhus/awesome-nodejs#static-site-generators) ⭐ 67,008 | 🐛 24 | 📅 2026-09-02
+* [ziadoz/awesome-php - Static Site Generators](https://github.com/ziadoz/awesome-php#static-site-generators) ⭐ 32,727 | 🐛 94 | 📅 2026-09-27
+* [markets/awesome-ruby - Static Site Generators](https://github.com/markets/awesome-ruby#static-site-generation) ⭐ 14,165 | 🐛 9 | 📅 2026-10-05
 * [h4cc/awesome-elixir - Static Page Generation](https://github.com/h4cc/awesome-elixir#static-page-generation) ⭐ 13,167 | 🐛 36 | 🌐 Elixir | 📅 2025-10-12
 * [Sdogruyol/awesome-ruby - Static Page Generation](https://github.com/Sdogruyol/awesome-ruby#static-page-generation) ⚠️ Archived
 * [kdabir/awesome-groovy - Static Web](https://github.com/kdabir/awesome-groovy#static-web) ⭐ 742 | 🐛 2 | 🌐 Groovy | 📅 2024-10-26
@@ -279,4 +279,4 @@ Awesome lists that help you with your new static web site.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
