@@ -1,16 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-10-05T10:53:00.604Z",
+    "last_updated": "2026-10-06T14:41:04.178Z",
     "original_repository_info": {
-      "archived": false,
+      "archived": true,
       "description": "A curated list of static web site generators.",
       "homepage": "https://myles.github.io/awesome-static-generators/",
       "id": 24027784,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-01T02:19:42Z",
-      "open_issues": 17,
+      "last_commit": "2026-10-05T23:32:01Z",
+      "open_issues": 0,
       "owner": "myles",
       "repo": "awesome-static-generators",
       "stars": 3779,
@@ -19,7 +19,7 @@
         "website"
       ]
     },
-    "original_repository_sha": "e58cc400bffaf325f2adb6be2a4c582d756b1a26",
+    "original_repository_sha": "611f232a5a6ec7f05c0f0eccb99f42da2aba011b",
     "enhanced_repository": "enhansome/enhansome-static-generators",
     "enhanced_repository_description": null,
     "title": "Awesome Static Web Site Generators with stars"
