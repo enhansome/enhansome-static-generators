@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-10-07T10:36:13.294Z",
+    "last_updated": "2026-10-08T10:57:30.623Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of static web site generators.",
@@ -13,7 +13,7 @@
       "open_issues": 0,
       "owner": "myles",
       "repo": "awesome-static-generators",
-      "stars": 3778,
+      "stars": 3776,
       "topics": [
         "awesome-list",
         "website"
